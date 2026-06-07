@@ -69,7 +69,7 @@ Cloudflare DNS → Primary Server
 ### One-click Installation | 一键安装
 
 ```bash
-wget https://raw.githubusercontent.com/aidenaudia8-commits/cloudflare-dns-failover/main/install.sh
+wget https://raw.githubusercontent.com/aidenaudia/cloudflare-dns-failover/main/install.sh
 
 chmod +x install.sh
 
